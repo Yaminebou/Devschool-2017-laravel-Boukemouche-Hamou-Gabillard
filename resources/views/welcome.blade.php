@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel-Devschool</title>
+        <title>Laravel-Devschool Yamine - Mmhamed Hamou - Gabillard Mathieu</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -70,14 +70,17 @@
                 <div class="top-right links">
                     <a href="{{ url('/login') }}">Login</a>
                     <a href="{{ url('/register') }}">Register</a>
+
                 </div>
             @endif
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-Devschool
+                    Laravel-Devschool-Yamine - Mmhamed - Gabillard Mathieu
 
                 </div>
+                <br>
+                </br>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
